@@ -1,0 +1,2 @@
+*composite.png filter=lfs diff=lfs merge=lfs -text
+*composite.jpg filter=lfs diff=lfs merge=lfs -text
